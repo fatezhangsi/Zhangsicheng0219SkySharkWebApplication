@@ -1,12 +1,3 @@
-﻿//------------------------------------------------------------------------------
-// <自动生成>
-//     此代码由工具生成。
-//
-//     对此文件的更改可能导致不正确的行为，如果
-//     重新生成代码，则所做更改将丢失。
-// </自动生成>
-//------------------------------------------------------------------------------
-
 namespace Zhangsicheng0219SkySharkWebApplication.NA
 {
 
@@ -18,8 +9,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// form1 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
@@ -27,8 +16,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// Menu1 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Menu Menu1;
 
@@ -36,8 +23,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// txtUser 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label txtUser;
 
@@ -45,8 +30,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// HyperLink1 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.HyperLink HyperLink1;
 
@@ -54,8 +37,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// HyperLink2 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.HyperLink HyperLink2;
 
@@ -63,8 +44,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// lblMessage 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label lblMessage;
 
@@ -72,8 +51,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// Label1 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label1;
 
@@ -81,8 +58,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// txtAddUserName 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAddUserName;
 
@@ -90,8 +65,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// Label3 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label3;
 
@@ -99,8 +72,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// txtDelUserName 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtDelUserName;
 
@@ -117,8 +88,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// txtAddPassword 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAddPassword;
 
@@ -126,8 +95,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// btnDelDelete 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnDelDelete;
 
@@ -135,8 +102,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// Label5 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label5;
 
@@ -144,8 +109,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// txtAddConfirmPassword 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox txtAddConfirmPassword;
 
@@ -153,8 +116,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// Label6 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label6;
 
@@ -162,8 +123,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// lstAddRole 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.ListBox lstAddRole;
 
@@ -171,8 +130,6 @@ namespace Zhangsicheng0219SkySharkWebApplication.NA
         /// btnAddSubmit 控件。
         /// </summary>
         /// <remarks>
-        /// 自动生成的字段。
-        /// 若要进行修改，请将字段声明从设计器文件移到代码隐藏文件。
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button btnAddSubmit;
     }
